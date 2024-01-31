@@ -1,2 +1,2 @@
-# community
-Inariam community content
+# Inariam community
+Welcome to the Inariam community!
